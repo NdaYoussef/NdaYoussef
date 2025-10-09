@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nda Youssef</h1>
+<h1 align="center" >Nda Youssef</h1>
 <h3 align="center">🌱 A passionate Junior .Net developer</h3>
 
 📚 I’m currently learning **.NET Core ,Clean Architecture**
