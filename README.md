@@ -2,7 +2,7 @@
 <h3 align="center">🌱 A passionate Junior .Net developer</h3>
 
 📚 I’m currently learning **.NET Core ,Clean Architecture**
-<p align="left">✨Certifications<br>- ITI Trainee Full-Stack .NET Development<br> <br>- DOTPY Trainee .NET Development<br>- NTI Web Design</p>
+<p align="left">✨Certifications<br>- ITI Trainee Full-Stack .NET Development<br><br>- DOTPY Trainee .NET Development<br>- NTI Web Design</p>
 - 📫 How to reach me **ndayousef06@gmail.com**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
