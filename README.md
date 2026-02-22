@@ -1,7 +1,7 @@
 <h1 align="center" >Nda Youssef</h1>
 <h3 align="center"> Junior .NET Developer</h3>
 
-📚 I’m currently learning **.NET Core ,Clean Architecture**
+📚 .NET Core ,Clean Architecture
 <p align="left">✨Trainings<br>- Full-Stack .NET Development ITI Trainee <br>- DOTPY Trainee .NET Development<br>- NTI Web Design</p>
 - 📫 How to reach me **ndayousef06@gmail.com**
 <h3 align="left">Connect with me:</h3>
