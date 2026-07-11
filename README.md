@@ -1,5 +1,5 @@
 <h1 align="center"> Nda Youssef</h1>
-<h3 align="center"> Junior .NET Developer | ITI Trainee</h3>
+<h3 align="center"> Junior .NET Developer | ITI Graduate</h3>
 
 - 📚 Leveling up in **.NET Advanced Topics** 
 - 📫 How to reach me: **ndayousef06@gmail.com** [![](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ndayousef06@gmail.com)
